@@ -1,5 +1,9 @@
 * {
-   background-color: rgb(234, 244, 240);
+   background-color: rgb(255, 255, 255);
+}
+
+.header {
+ font-size: 20px;
 }
 
 .intro {
@@ -11,7 +15,7 @@ Link:visited,
 a:link,
 Link:link {
   text-decoration: none;
-  color: black;
+  color: rgb(255, 255, 255);
 }
 
 .navbar-menu {
@@ -22,12 +26,12 @@ text-align: center;
   display: inline-block;
   padding: 10px;
   text-align: left;
-  background-color: rgb(222, 182, 202);
+  background-color: rgb(0, 0, 0);
   border-radius: 5px;
   padding: 10px;
   margin:  10px 10px 10px 10px;
 }
 
 .navbar-list:hover {
-  background-color: pink;
+  background-color: rgb(144, 144, 144);
 }
